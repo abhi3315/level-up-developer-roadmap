@@ -4,6 +4,16 @@
 
 Transition from a mid-level WordPress/MERN developer into a senior/staff-level engineer capable of designing and building complex, scalable, and performant systems. Over the next 12 months (~20 hours/week), focus on a specific theme each month. Each theme includes hands-on learning (primarily via courses and projects) to build a strong portfolio demonstrating architecture, scalability, and performance.
 
+---
+
+**Quick Links:**
+
+* **[How to Use This Roadmap](GUIDE.md)**
+* **[Progress Checklist](CHECKLIST.md)**
+* **[License Information](LICENSE)**
+
+---
+
 ## Monthly Themes Overview
 
 | Month | Focus Theme                        | Key Skills / Topics                                                                                              | Project (Application of Skills)                                                                                                                                        |
